@@ -1,0 +1,46 @@
+
+  .title-style{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 20px;
+    color: hsl(52, 0%, 98%);
+    }
+    .title-quote{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: hsl(52, 0%, 98%);
+    }
+  #phon{
+    text-decoration: none;
+  }
+  #goog{
+    text-decoration: none;
+  }
+  #pay{
+    text-decoration: none;
+  }
+  #cod{
+    text-decoration: none;
+
+  }
+#pm{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  top:80%;
+ 
+}
+#plac{
+  left: 85%;
+  top: 90%;
+  position: absolute;
+}
+#cup{
+  left: 77%;
+  top:67%;
+  height: 5%;
+  width:20% ;
+  position: absolute;
+}
+#ppa{
+  text-decoration: none;
+}

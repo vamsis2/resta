@@ -1,0 +1,25 @@
+.App {
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+  
+}
+.input {
+  border-radius: 15px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  text-align: center;
+  border: none;
+  height: 6vh;
+  width: 40vw;
+
+}
+.mainInput {
+  position: relative;
+  margin-top: 50%;
+}
+#video{
+  position: absolute;
+ height: 270%;
+ width: 100%;
+ top: 15%;
+}

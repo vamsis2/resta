@@ -1,0 +1,35 @@
+#footer{
+    background-color: black;
+    color: rgb(2, 2, 2);
+    width: 100%;
+    height: 20%;
+    position: absolute;
+    top: 106.8%;
+    left: 0%;
+    right: 0%;
+}
+#fllow{
+    top: 110%;
+    position: absolute;
+    color: white;
+}
+#twiter{
+    top: 115%;
+    position: absolute;
+    left: 21%;
+    color: white;
+}
+#yout{
+    top: 115%;
+    position: absolute;
+    left: 25%;
+    color: white;
+
+}
+#faceb{
+    top: 115%;
+    position: absolute;
+    left: 29%;
+    color: white;
+
+}

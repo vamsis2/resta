@@ -1,0 +1,42 @@
+#video2{
+ position: absolute;
+ width: 30%;
+ height: 30%;
+ top: 25%;
+}
+#video3{
+    position: absolute;
+    width: 30%;
+    height: 30%;
+    left: 34%;
+    top: 25%;
+   }
+   #video4{
+    position: absolute;
+    width: 30%;
+    height: 30%;
+    left: 69%;
+    top: 25%;
+   }
+   #video5{
+    position: absolute;
+    width: 30%;
+    height: 30%;
+    top: 65%;
+   }
+   #video6{
+       position: absolute;
+       width: 30%;
+       height: 30%;
+       left: 34%;
+       top: 65%;
+      }
+      #video7{
+       position: absolute;
+       width: 30%;
+       height: 30%;
+       left: 69%;
+       top: 65%;
+      }
+     
+    
